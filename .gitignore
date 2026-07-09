@@ -1,0 +1,11 @@
+# Особисті налаштування вікон
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Кошик Obsidian
+.trash/
+
+# Тимчасові файли ОС
+.DS_Store
+Thumbs.db
+desktop.ini
