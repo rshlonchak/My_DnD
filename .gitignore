@@ -11,3 +11,6 @@ Thumbs.db
 desktop.ini
 
 backup.bat
+updated.bat
+backup.sh
+updated.sh
